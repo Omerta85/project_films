@@ -1,0 +1,19 @@
+.badges_wrapper {
+
+    display: flex;
+    justify-content: space-evenly;
+    width: 60%;
+    position: absolute;
+    top:10%;
+    right: -15%;
+    transform: rotate(45deg);
+    background-color: #df565a;
+
+
+}
+
+.badge {
+    background-color: #df565a;
+    color: white;
+
+}

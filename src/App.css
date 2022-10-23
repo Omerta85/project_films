@@ -1,38 +1,79 @@
-.App {
-  text-align: center;
+body {
+  background-image: url("./assets/image/1625223942_34-kartinkin-com-p-fon-animatsiya-krasivie-foni-48.jpg");
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+  box-sizing: border-box;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#card_dark {
+  background-color: #222;
+  box-shadow: 1px 4px 12px 2px black;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+
+#header_dark {
+  background-color: #07064f;
+}
+
+#main_dark {
+  background-image: url("./assets/image/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_236836-17359.jpg");
+}
+
+#main_dark h2 {
+  color: gray
+}
+
+#navbar_dark {
+  background-image: url("./assets/image/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_236836-17359.jpg");
+  border-bottom: 2px solid black;
+}
+
+#navbar_dark button {
+  color: #777;
+}
+
+#navbar_dark button:hover {
+  background-color: #222;
+}
+
+#navbar_dark input {
+  background-color: #222;
+  color: #777;
+}
+
+#genres_dark {
+  background-image: url("./assets/image/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_236836-17359.jpg");
+  border: 1px solid black;
+}
+
+#genres_dark button {
+  background-color: #222;
+  color: #777;
+}
+
+#body_dark {
+  background-image: url("./assets/image/1616643522_27-p-matritsa-fon-29.jpg");
+}
+
+#details_dark {
+  background-image: url("./assets/image/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_236836-17359.jpg");
+  color: snow;
+  text-decoration: none;
+}
+
+
+#details_dark .info div {
+  border-bottom: 1px solid white;
+}
+
+#form_dark {
+  background-color: #181717;
+  box-shadow: 1px 4px 12px 2px black;
+}
+
+#form_dark input {
+  background-color: #222;
+  border: 2px solid black;
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
