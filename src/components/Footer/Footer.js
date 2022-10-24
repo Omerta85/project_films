@@ -1,4 +1,5 @@
-import { useSelector} from "react-redux";
+import {Link, useNavigate} from "react-router-dom";
+import {useDispatch, useSelector} from "react-redux";
 
 import css from './Footer.module.css';
 import logo from '../../assets/image/OMERTA-removebg-preview.png'

@@ -5,9 +5,11 @@
     width: 60%;
     position: absolute;
     top:10%;
-    right: -15%;
-    transform: rotate(45deg);
+    right: -5%;
+    transform: rotate(40deg);
     background-color: #df565a;
+    border-radius:40%;
+
 
 
 }
@@ -15,5 +17,6 @@
 .badge {
     background-color: #df565a;
     color: white;
+    border-radius:80%;
 
 }
