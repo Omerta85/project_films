@@ -3,7 +3,7 @@
     width: 245px;
     height: 480px;
 
-    box-shadow: 1px 4px 12px 2px silver;
+    box-shadow: 1px 4px 12px 2px #a7a5a5;
     cursor: pointer;
     transition: all .2s ease-in-out;
 
