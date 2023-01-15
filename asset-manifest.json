@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/project_films/static/css/main.baaf97ff.css",
+    "main.js": "/project_films/static/js/main.fa0ff2bc.js",
+    "static/js/787.d24230da.chunk.js": "/project_films/static/js/787.d24230da.chunk.js",
+    "static/media/1616643522_27-p-matritsa-fon-29.jpg": "/project_films/static/media/1616643522_27-p-matritsa-fon-29.9721d6bed450456fc6c4.jpg",
+    "static/media/instagram.png": "/project_films/static/media/instagram.0255ef7a609121ef3607.png",
+    "static/media/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_236836-17359.jpg": "/project_films/static/media/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_236836-17359.22cf344a1db1d38504ef.jpg",
+    "static/media/OMERTA-removebg-preview.png": "/project_films/static/media/OMERTA-removebg-preview.2806051df1e72600abb1.png",
+    "static/media/1625223942_34-kartinkin-com-p-fon-animatsiya-krasivie-foni-48.jpg": "/project_films/static/media/1625223942_34-kartinkin-com-p-fon-animatsiya-krasivie-foni-48.265c47a2f11aac13e4f5.jpg",
+    "static/media/linkedin.png": "/project_films/static/media/linkedin.4efdc20cd5bb163f0921.png",
+    "static/media/telegram.png": "/project_films/static/media/telegram.73fa8aceba8cea0ed120.png",
+    "static/media/flag.png": "/project_films/static/media/flag.c50ab2322fe2edd17645.png",
+    "index.html": "/project_films/index.html",
+    "main.baaf97ff.css.map": "/project_films/static/css/main.baaf97ff.css.map",
+    "main.fa0ff2bc.js.map": "/project_films/static/js/main.fa0ff2bc.js.map",
+    "787.d24230da.chunk.js.map": "/project_films/static/js/787.d24230da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baaf97ff.css",
+    "static/js/main.fa0ff2bc.js"
+  ]
+}
