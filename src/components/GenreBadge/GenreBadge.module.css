@@ -8,15 +8,10 @@
     right: -5%;
     transform: rotate(40deg);
     background-color: #df565a;
-    border-radius:40%;
-
-
 
 }
 
 .badge {
     background-color: #df565a;
     color: white;
-    border-radius:80%;
-
 }

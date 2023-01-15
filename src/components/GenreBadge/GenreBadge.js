@@ -7,7 +7,7 @@ const GenreBadge = ({children}) => {
     const {genres} = useSelector(state => state.genreReducer);
 
     const badges = [];
-    badges.length = 2;
+    badges.length = 1;
 
     for (let id of children) {
         const find = genres.find(value => value.id === id);
